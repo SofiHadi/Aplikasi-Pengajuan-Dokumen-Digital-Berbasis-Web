@@ -1,5 +1,5 @@
 # 📁 Aplikasi Pengajuan dan Pengesahan Dokumen Digital Berbasis Web
-ini dibuat untuk memenuhi tugas pemrograman mengenai sistem manajemen dokumen 
+Tugas ini dibuat untuk memenuhi tugas pemrograman mengenai sistem manajemen dokumen 
 ## 🚀 Fitur Utama & Progress Tugas
 
 - [x] **Sistem Login**: Akses masuk aman (Session bypass fleksibel) dengan visualisasi tema *Emerald Green* solid.
