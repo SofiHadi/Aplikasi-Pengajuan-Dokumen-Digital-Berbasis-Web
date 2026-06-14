@@ -1,7 +1,5 @@
-# 📁 Rancang Bangun Sistem Informasi Pengajuan Dokumen Berbasis Web dengan Validasi Tanda Tangan Digital
-
-Sistem manajemen pengajuan berkas berbasis web murni (Native PHP) yang dirancang dengan antarmuka modern menggunakan Tailwind CSS. Aplikasi ini mempermudah pengelolaan data berkas, validasi dokumen, hingga pencatatan bukti tanda tangan digital secara aman dan interaktif.
-
+# 📁 Aplikasi Pengajuan dan Pengesahan Dokumen Digital Berbasis Web
+ini dibuat untuk memenuhi tugas pemrograman mengenai sistem manajemen dokumen 
 ## 🚀 Fitur Utama & Progress Tugas
 
 - [x] **Sistem Login**: Akses masuk aman (Session bypass fleksibel) dengan visualisasi tema *Emerald Green* solid.
